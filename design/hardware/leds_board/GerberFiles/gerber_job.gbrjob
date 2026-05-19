@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-04-27T22:58:16Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "LEDboard v16"
+        },
+        "Owner": "Daniel Solano <a00827296@tec.mx>",
+        "Size": {
+            "X": 35.250731,
+            "Y": 24.59655
+        }
+    }
+}
